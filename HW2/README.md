@@ -1,5 +1,7 @@
 # Visual Recognition using Deep Learning HW2
 ## Celebrity faces generation using GAN (Generative Adversarial Network)
+In this homework, we build a deep convolutional GAN to generate faces.
+
 * **DCGAN.ipynb**: all the code of this homework
 
 * **DCGAN_with_training_image.ipynb**: similar to the above one, except with the generated images in each epoch during training process
