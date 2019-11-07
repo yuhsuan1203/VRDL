@@ -1,4 +1,4 @@
-# Visual Recognition using Deep Learning HW2
+# Visual Recognition using Deep Learning Homework 2
 ## Celebrity faces generation using GAN (Generative Adversarial Network)
 In this homework, we build a deep convolutional GAN to generate faces.
 
@@ -10,11 +10,10 @@ In this homework, we build a deep convolutional GAN to generate faces.
 
 * **haarcascade_frontalface_default.xml**: used to detect frontal face
 
-* **my_helper.py**: include some useful function, such as crop the image to the desired size or save the generated image at the end
+* **my_helper.py**: include some useful function, such as crop the image to the desired size or save the generated image when testing
 
 * **G.png**: model architecture of the generator
 
 * **D.png**: model architecture of the discriminator
-<<<<<<< HEAD
 
 * **CS_IOC5008_0856049_HW2.pdf**: Report
