@@ -18,5 +18,3 @@ In this homework, we build a deep convolutional GAN to generate faces.
 <<<<<<< HEAD
 
 * **CS_IOC5008_0856049_HW2.pdf**: Report
-=======
->>>>>>> 47975b7e76d6ec44b3fb858e22b2b0c42f0b0de0
