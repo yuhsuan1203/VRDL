@@ -79,7 +79,7 @@ img_bbox_data
 img_bbox_data_grouped = img_bbox_data.groupby('img_name')
 print(len(img_bbox_data_grouped))
 for i in range(len(img_bbox_data_grouped)):
-    file_name = "label/" + str(i+1) + ".txt"
+    file_name = "labels/" + str(i+1) + ".txt"
     fp = open(file_name, "w")
     img_name = str(i+1) + ".png"
     img = plt.imread('train/' + img_name)
