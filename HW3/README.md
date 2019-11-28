@@ -27,9 +27,11 @@ HW3/
 │
 ├── benchmark.png
 ├── createlist.py
+├── CS_IOC5008_0856049_HW3.pdf
 ├── detect.py
 ├── label_annotation.py
 ├── mAP_45.txt
+├── model_architecture.png
 ├── models.py
 ├── result.json
 ├── test.py
