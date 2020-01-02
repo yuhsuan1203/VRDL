@@ -1,0 +1,13 @@
+matplotlib
+numpy
+opencv-python
+pandas
+pathlib2==2.3.5
+pillow
+scikit-learn
+scipy
+tensorboardX
+torch
+torchtext
+torchvision
+tqdm
